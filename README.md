@@ -1,2 +1,4 @@
 # Air-Purifier
-Using an MQ-135 air quality sensor, a DHT11 temperature-humidity sensor, an OLED display, a computer fan, and a HEPA filter, I developed an air purification device. Data from the sensors is displayed on the OLED screen, and the fan activates when air quality exceeds a certain threshold.
+In this project, I developed an air purifier using the MQ-135 air quality sensor, DHT11 temperature and humidity sensor, OLED display, computer fan, and HEPA filter. Data from the sensors is displayed on the OLED screen, and the fan activates when air quality exceeds a certain threshold. The fan is controlled by a transistor to increase energy efficiency. This device is easy to build with small, low-cost components.
+
+Bu projede, MQ-135 hava kalitesi sensörü, DHT11 sıcaklık-nem sensörü, OLED ekran, bilgisayar fanı ve HEPA filtre kullanarak bir hava temizleme cihazı geliştirdim. Sensörlerden alınan veriler OLED ekranda gösterilirken, hava kalitesi belirli bir eşiğin üzerine çıktığında fan aktif hale gelmektedir. Fanın kontrolü transistör ile sağlanarak enerji verimliliği artırılmıştır. Cihaz, küçük boyutlu ve düşük maliyetli bileşenlerle kolaylıkla yapılabilir.
